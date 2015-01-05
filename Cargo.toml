@@ -1,0 +1,5 @@
+[package]
+
+name = "lightfoot"
+version = "0.0.1"
+authors = ["Matt Michie <mmichie@twitter.com>"]
